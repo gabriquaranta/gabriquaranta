@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+
+```math
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://media.animewallpapers.com/wallpapers/lain/lain_59_640.jpg?m=31646137513');]{x0000}$}
+
+
 <!--
 **gabriquaranta/gabriquaranta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
